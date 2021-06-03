@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance from the eternall God declaring severall spirituall transactions unto the Parliament, and Common-wealth of England, unto His Excellency, the Lord Generall Cromwell, the Councell of State, the Councell of Warre, and to all that love the second appearing of the Lord Jesus, the onely wise God and everlasting Father, blessed for ever / by John Reeve, and Lodowick Muggleton ...</title>
+            <author>Reeve, John, 1608-1658.</author>
+         </titleStmt>
+         <extent>Approx. 41KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28837</idno><idno type="EEBO-CITATION">18696285</idno>
+  <idno type="VID">205371</idno>
+  <idno type="EEBO-PROQUEST">2240856776</idno>
+  
+            <idno type="STC">Wing R682</idno>
+            <idno type="OCLC">18696285</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1660:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance from the eternall God declaring severall spirituall transactions unto the Parliament, and Common-wealth of England, unto His Excellency, the Lord Generall Cromwell, the Councell of State, the Councell of Warre, and to all that love the second appearing of the Lord Jesus, the onely wise God and everlasting Father, blessed for ever / by John Reeve, and Lodowick Muggleton ...</title>
+                  <author>Reeve, John, 1608-1658.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Muggleton, Lodowick, 1609-1698.</term>
+               <term type="topical_term">Muggletonians.</term>
+               <term type="topical_term">Christian sects --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205371:1"/>
+            <pb facs="tcp:205371:1"/>
+            <p>A REMONSTRANCE FROM THE ETERNALL GOD: DECLARING Severall Spirituall Transactions unto the Parliament, and Common-wealth of ENGLAND,</p>
+            <p>UNTO His Excellency, the Lord Generall <hi>Cromwell,</hi> the Councell of State, the Councell of Warre,</p>
+            <p>AND To all that love the second appearing of the Lord Jesus, the onely wise God and everlasting Fathers, blessed for ever.</p>
+            <p>By <hi>JOHN REEVE,</hi> and <hi>LODOWICK MUGGLETON,</hi> the two last Witnesses and true Prophets imprisoned for the testimony of Jesus Christ in Old Bridewell.</p>
+            <p>Printed in the Yeare, 1653.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb n="2" facs="tcp:205371:2"/>
+            <head>The Contents, containing these severall Heads.</head>
+            <list>
+               <item>
+                  <hi>FIrst, of our being sent with a Message unto one</hi> John Tanee <hi>by command from God.</hi>
+               </item>
+               <item>
+                  <hi>II. Of our being sent by command from the Lord, with a Message unto one</hi> John Robbins.</item>
+               <item>
+                  <hi>III. Of our being moved by the Holy Spirit to deliver a Message unto some Ministers.</hi>
+               </item>
+               <item>
+                  <hi>IV. A discovery of the Lords two last spirituall Witnesses that ever shall speake or write unto Men by Commission from the true God, untill time be no more.</hi>
+               </item>
+               <item>
+                  <hi>V. Of the Roman Gentiles being Lords of the Scriptures by conquest ever the Jews.</hi>
+               </item>
+               <item>
+                  <hi>VI. Of our being moved by the Holy Spirit to command in generall all the Ministers about</hi> London <hi>and</hi> Westminster <hi>to lay down their Preaching, because the Lord Jesus gave them no Commis<g ref="char:EOLhyphen"/>sion to Preach.</hi>
+               </item>
+               <item>
+                  <hi>VII. Of our being sent with a Message unto all spirituall Counterfeits about</hi> London.</item>
+               <item>
+                  <hi>VIII. Of our being apprehended, and committed to Newgate for our Faith by the Lord Mayor.</hi>
+               </item>
+               <item>
+                  <hi>IX. Of the injustice of one Alderman</hi> Andrews.</item>
+               <item>
+                  <hi>X. Of our unjust Triall, and Sentence against us for our faith in God, by the Recorder</hi> Steele <hi>and the</hi> London <hi>Jury, about the</hi> 15. <hi>of October</hi> 1653.</item>
+               <item>
+                  <hi>XI. Of our humble Requests in the behalfe of the chosen of God, unto all the chiefe powers of</hi> England.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:205371:2"/>
+            <head>Right Honourable, and welbeloved, in the year, <hi>1651.</hi>
+            </head>
+            <p>BY vertue of a Commission which we received by voice of words from Heaven, through the glorious mouth of the Lord Jesus Christ, the only true God and everlasting Father: The lord upon paine of eter<g ref="char:EOLhyphen"/>nall death commanded us to deliver these Messages following: First, we were directed to goe to one <hi>John Tanee</hi> to convince him of errour, which was exceeding great, in obedience to which command we accordingly went unto him, who first affirmed that there was never any personall God; sure he forgot that saying of the Apostle <hi>Thomas,</hi> who when he had handled the blessed body of the Lord Jesus, hee called him his Lord and his God: there are divers other places in holy writ that clearly prove the man Jesus to bee the only God: Likewise he affirmed, that God could not possibly be confi<g ref="char:EOLhyphen"/>ned into the womb of the Virgin; I am sure also that if ever hee did read these Scriptures, he wanted faith to believe them, where it is written, <hi>Is there any thing too hard for God? with God all things are possible:</hi> he further said, that that could not bee a God that suffered death, and after that was closed in a Tomb three daies and three nights: I am certaine hee knows no<g ref="char:EOLhyphen"/>thing of these Scriptures, where it is written, <hi>I am hee that was dead and am alive, and behold I live for evermore, and have the Keyes of hell and death.</hi> Againe, it is written, <hi>that he poured out his soule unto death:</hi> and that <hi>Belie<g ref="char:EOLhyphen"/>vers are redeemed by the bloud of God:</hi> that is, by the life, soule, or spirit of God; because the life, or soule, or spirit lieth in the bloud, as it is written: Likewise it was very strange to this <hi>John Tanee</hi> that God should dye, and by his owne power raise himselfe from death to life, and personally ascend in<g ref="char:EOLhyphen"/>to that place of immortall glory beyond the stars, where the persons of ho<g ref="char:EOLhyphen"/>ly Angels are resident.</p>
+            <p>Sure I am, this man believeth no place of Scripture that proveth the po<g ref="char:EOLhyphen"/>wer of that God the Man Jesus, who said to the Jews, <hi>I have power to lay down my life, and I have power to take it up againe:</hi> Also it is written, <hi>What and if you shall see the Sonne of Man ascend from whence hee came?</hi> also <hi>he was scene to ascend up by above an hundred Disciples at one time,</hi> where it was said by two men in white, <hi>why stand yee gazing heere? the same Jesus which ye see ascend shall in like manner come againe</hi> So that of this Man Je<g ref="char:EOLhyphen"/>sus the onely Lord of life, which the Scriptures throughout beare witnesse unto, <hi>John Tance</hi> knew nothing.</p>
+            <p>But although <hi>John Tantes</hi> God which hee professed bee an infinite Spirit,
+<pb n="4" facs="tcp:205371:3"/>without any personall substance; yet he affirmed, that he had a Commission from his bodilesse God, to lead the Nation of the Jewes unto Jerusalem to make them the onely happy people: but this wee know from that God that sent us, that his God, and himselfe, and his designe must all perish to eternity; for this <hi>John Tanee</hi> is the last great mystery <hi>Babylon,</hi> of that lying Notion of the Ranters, that ever shall speake or write against that spi<g ref="char:EOLhyphen"/>rituall Mystery of the immortall God cloathing himselfe with flesh in the person of a man, sin only excepted.</p>
+            <p>Moreover, we declare from our God, that this <hi>John Tance</hi> is the Prince and head of that Atheistical lie held forth by all filthy Sodomitical Ranters, which are now in the world: these are those spoken of by the Apostle <hi>Paul</hi> that were to fall away from the faith, utterly denying the Lord Jesus and the Holy Scriptures, a little before the comming of the great God: these are those cursed Children of that Dragon Devil <hi>Kaine,</hi> who say light and dark<g ref="char:EOLhyphen"/>ness are both one, good and evill are both one; so likewise like blasphe<g ref="char:EOLhyphen"/>ming Reprobates as they are, they say that God and Divel are both one, from which hellish tenent, with greediness they act unrighteousness, sporting themselves in all fleshly filthiness, as the people of <hi>Sodome</hi> and <hi>Gomorrah</hi> did, that they may justly bee damned in themselves at the great day of the Lord, because they charged God with all their folly, who as it is written is of so pure a nature, that hee can neither be tempted, nor tempt any man to evill: And so much for all ungodly Ranters that despise a personall God, and <hi>John Tanee</hi> their King.</p>
+            <p>The second Message that wee were sent withall by command from God, was to one <hi>John Robbins</hi> then in the new prison, which was to pronounce a sentence of eternall death upon him for his cruelty towards men, and his blasphemy against the Lord Jesus Christ, for this <hi>John Robbins</hi> is the last great Antichrist, or man of sinne, that was to appeare to fulfill that Scripture, spoken of by <hi>Paul</hi> in 2 <hi>Thess.</hi> where it is written, <hi>who opposeth and exalteth himselfe above all that is called God, or that is worshipped, so that he as God, sitteth in the Temple of God, shewing himselfe that he is God.</hi>
+            </p>
+            <p>For this <hi>John Robbins</hi> by many people was honoured as a God, for they fell upon their faces at his Feet, and worshipped him, calling him their Lord and their God: likewise, hee was prayd unto as unto a God: moreover, he gave them a Law, commanding them not to mention the name of any o<g ref="char:EOLhyphen"/>ther God, but him only; and if they disobeyed his Lawes, by his witch<g ref="char:EOLhyphen"/>craft power he plagued their spirits and bodies, in the strangest manner that ever was seen, of which we were eye-witnesses; but after the sentence of death, from the Lord Jesus through our mouths was declared against this Prince of Divels, in this age; hee was constrained about the space of two
+<pb n="5" facs="tcp:205371:3"/>months after to dis-owne his assumed Godhead, through which many were deceived by him, and some brought in their whole Estates unto him, belie<g ref="char:EOLhyphen"/>ving on him as their God and only Saviour, unto whom he promised to make the prison doores fly open, and safely conduct them through the Seas into the City of Jerusalem, and there make them eternally happy.</p>
+            <p>But this cursed designe came to a sudden conclusion as is beforesaid, which the Magistrates power could not accomplish, though they imprisoned him, yet after he had heard the sentence of death denounced against him, for his taking the glory of God to himselfe, hee spake these words and no more, saying, <hi>it is finished, the Lords will bee done:</hi> and so much concerning <hi>John Robbins,</hi> who was the King and chiefe head of all the false Christs, and false Prophets, and Prophetesses, and counterfeit Virgin <hi>Mary's,</hi> with all other withchcraft appearances, whether Quakers, or Shakers, or whatsoever they be, that go under the notion of spirituall power from God at this day.</p>
+            <p>After the delivering of these two messages, by vertue of our Commission, we were moved by the spirit of Jesus Christ to deliver a Message unto some Ministers, to make knowne unto them, that they have no Commission from God to preach unto the people, but they have taken up a Commission from the letter of the Scripture to preach, and from men onely, which some of them confessed to be true, but some of them that were puffed up with fleshly honour and profit through their Ministry, they would not acknowledge they had no Commission from God to preach, although they could not give a positive answer to any spirituall question to prove themselves Ministers by Commission from the Spirit of Jesus Christ.</p>
+            <p>For this we know from the Lord, that the sacred Scriptures were spoken by holy Prophets and Apostles, as they were inspired by the Holy Spirit, so did they speak: therefore none can interpret the holy Scriptures that are so mysterious, according to the minde of God, except he is indued with the in<g ref="char:EOLhyphen"/>fallible spirit of inspiration, as they were that spake the Scriptures; and hee that is indued with that blessed spirit hath the life &amp; power of the holy Scrip<g ref="char:EOLhyphen"/>tures shining through his spirit and body, having life eternall abiding in him, and hee knowes that in the resurrection of the spirits and bodies out of the dust, of all mankinde at the last day, he shall visibly enjoy a personall glory in immortality, in that everlasting Kingdome of the undefiled Heavens and Earth above the stars, where the glorious person of God, and holy Angels are resident: this is that place of blessednesse that is utterly hid from the wise and prudent men of this world; but prepared for those men that spake the holy Scriptures, and those only that yield obedience unto the holy Spirit of Iesus Christ, the onely God all their dayes: and so much concerning that Message unto some of the Ministers of God so called.</p>
+            <pb n="6" facs="tcp:205371:4"/>
+            <p> The next thing we shall declare unto you from the Lord is this, that wee two only are the last men that ever shal speak or write by Commission from the true God, unto the powers and people, whilest this world indureth; therefore whoever lives to see an end of us, shall suddenly see the dissolution of this vain world, and all the glory thereof; but the day and houre is known only unto Iesus Christ the everlasting Father: Moreover, this we know al<g ref="char:EOLhyphen"/>so, that we two are the last men that ever God will give such heavenly un<g ref="char:EOLhyphen"/>derstanding of his divine person any more: for we are those two Spirituall Witnesses prophesied of by <hi>John</hi> in <hi>Rev.</hi> 11. who to fulfill the Scriptures were appointed to appeare in this blinde age, to make known unto the Elect a little of that unspeakable spirituall mystery of the immortal God and alone eternall Father, cloathing himselfe with flesh in the person of a man as be<g ref="char:EOLhyphen"/>foresaid: likewise we know that the only true God the Man Iesus upon the Throne of Glory, to his everlasting praive be it spoken, he hath by his blessed Spirit revealed unto us more spiritual understanding of that glorious mystery concerning himselfe, then ever was, is, or shall be revealed unto men, untill time bee swallowed up into eternity, and without the knowledge of this mystery in some measure, no man can possibly enjoy any true peace unto his soule.</p>
+            <p>Againe, wee declare by voice and inspiration from God that wee are the conclusion of this mystery which God made known at the first unto <hi>Adam,</hi> in that promise unto him, that <hi>the seed of the woman should breake the serpents head:</hi> revealing also by his blessed Spirit of it to his chosen from thence un<g ref="char:EOLhyphen"/>till <hi>Moses</hi> and the Prophets, who spake much of this mystery to the Elect in their times, and from thence to the birth of our Lord and Saviour Iesus Christ, the holy Mystery it selfe, when <hi>Jehovah</hi> the everlasting Father in the time of the Law, became a Son Iesus in the time of the Gospel, yea, and a Servant to his Elect Creatures: and from thence to the commission of the Apostles, whose preaching was chiefly of this mystery, because in the knowledge of it only, is the assurance of everlasting life: but as for this Commission of the Apostles it continued about 300 years, before it was by the ten persecutions persecuted quite out of the world.</p>
+            <p>Then after the Roman Gentiles by the sword, to fulfill the words of Christ, had conquered the Nation of the Jewes, they tooke possession of the Letter of the Scripture, which is the Court with out the Temple, spoken of by <hi>John</hi> in <hi>Rev.</hi> 11. by which conquest over the Iewes, they have beene Lords over the Letter of the Scripture unto this day, ordaining Ministers of their owne to bee the Interpreters of the Scriptures, keeping the people in perpetuall bondage, making such Merchandize of them, that they have lived like Prin<g ref="char:EOLhyphen"/>ces by them: Oh I how profitable have these Scriptures been to Reprobate Preachers?</p>
+            <pb n="7" facs="tcp:205371:4"/>
+            <p> Againe, but as for the spirit of life within the holy Temple, God hath reserved it to himselfe, and he gives it to his elect Jewes and Gentiles, from whence they have power within them to obey the letter without them; but the Reprobate worshipeth the letter and his owne inventions for his God, but he hath no power from the holy Spirit within the Temple, to yield obe<g ref="char:EOLhyphen"/>dience to the letter without, so much honoured by his lips; and this is the cause in men, why so many must suffer the vengeance of eternall death, be<g ref="char:EOLhyphen"/>cause they take upon them to be the Ministers of God and interpreters of the sacred Scriptures, without a Commission from God, they being utterly ig<g ref="char:EOLhyphen"/>norant of his infallible Spirit, the which blessed Spirit doth enable a man to declare to the sensible understanding of men what the person of God is, and his divine nature; and what the persons of holy Angels are, and their natures, and what the person of the Devill was before his fall, and what his person is and shall bee to eternity; and in what condition <hi>Adam</hi> was created in, and how the came to fall; also what the glory of Heaven is, and the residence of it to eternity; and what Hell and eternall death is, and the place of it to eternity. Moreover we declare from our God, that no man in the world at this time doth cleerly understand any one of these six spirituall things, but we two onely, whom the Lord hath sent to declare them unto his chosen ones, appointed unto eternall life: and so much for that truth.</p>
+            <p>Then immediatly after this there came many people unto us, most of them pretending to know what the Lord had spoken unto us, unto whom we gave a full acount, with which many seemed well satisfied: but some of them being wise in their conceits did presume to call our Commission from Iesus Christ, blasphemy, and a delusion of the Devill, and such like; for the which in obedience to the command of our God, wee did pronounce them eternally damned for their blasphemy against the Holy Spirit that sent us: And after this manner we continued about the space of one whole yeare and a quarter, declaring the prerogative power and pleasure of our God, in which time many ignorant blasphemers being moved with envy, they brought themselvs under an eternall curse: and so much for that truth.</p>
+            <p>After this we were moved by the Holy Spirit that sent us, to command in generall the eminent Ministers (in the account of the people, about Lon<g ref="char:EOLhyphen"/>don and Westminster) to lay down their Ministery, because there is not a man of them as before said, hath the spirit of inspiration to declare unto the people, what the true God is, that they may bee saved from the wrath to come; wherefore for want of the gift of the Holy Spirit, they teach the people a false God, a false heaven, a false devill, and a false hell: and this is the cause that the people remain in darkness, acting all cruelty one towards another, dying in their sins, and so consequently must bee eternally damned:
+<pb n="8" facs="tcp:205371:5"/>for we that are the Lords Messengers unto whom God hath given the infal<g ref="char:EOLhyphen"/>lible spirit, do certainly know, that all the Priests, Ministers, or Speakers to the people, in the world, are false and vaine, both deceivers of themselves, and of those that love to be deceived by them; therefore they teach the people an immaginary God, which they call an infinite Spirit, not having any bodily substance: Thus instead of instructing the people in true under<g ref="char:EOLhyphen"/>standing of a spirituall personall God, which to know is life eternall, they teach the people a God of words only: So likewise they teach the people an immaginary Divel also, perswading them that the Divill is an invisible spirit without a bodily substance, walking, or flying too and fro in the ayre; and they say this immaginary evil spirit, or Divel is he that tempteth all men to that wickednesse committed by them: thus they teach the people a Divel that is not, nor ever was, like unto the rest of their false and lying Tenents: as for this truth which is of a transcendent excellency, in generall they are utterly ignorant of it; that is, that no invisible spirit, neither of God, Angels, nor Men, can possible have any living being, without a body or per<g ref="char:EOLhyphen"/>son, nor never had: Thus the people are kept from the knowledge of the true God, and from the knowledge of the right Divel; they not thinking in the least, that there is no other Divel since the fall of <hi>Adam,</hi> but a mans owne spirit of unclean reason, and wicked immagination: therefore it is written, that <hi>all the immaginations of mans heart are evill, and onely evill, and continually evill:</hi> what is that but the Divell, that hath nothing in it but e<g ref="char:EOLhyphen"/>vil. Againe, it is written, <hi>not that which goeth into the belly defileth a man, but that which commeth out of the man; out of the heart proceed evil thoughts, murders, adulteries, and such like.</hi> Againe, it is written, <hi>when a man is temp<g ref="char:EOLhyphen"/>ted to evill, he is drawne aside of his owne lust:</hi> Thus it is cleare to those that see by the eye of faith, that that Divel so much spoken of in holy Writ, is that unsatiable lust, naturally arising from that spirit of unclean reason, and wicked immagination dwelling in the body of man, which tempts wicked men to all unrighteousness; wherefore from the Lord wee counsell you to watch that Divel within you, and our souls for yours, you shall never bee troubled with any invisible Divel without you; for indeed there was never any such evil spirit, or bodiless Divel in the ayre, as ignorant men have for a long season taught.</p>
+            <p>Again, if men and women were convinc'd, that there are no other Devils but their own spirits, untill they are born again by the spirit of Jesus Christ, they would then be afrayd to act wickedness one towards another, seeing there is nothing to bee eternally damned, but that which acteth unrighte<g ref="char:EOLhyphen"/>ousness: and there is nothing committeth wickedness but men and women; without all controversie since the fall of man, there are no other Devils but
+<pb n="9" facs="tcp:205371:5"/>men and women only, so likewise as aforesayd, they must needs teach a false heaven and a false hell, that know neither God nor Devill. Again as for the persons of holy Angels, they know nothing of them, nor what condition Adam was created in, or how he came to lose his first estate, onely like chil<g ref="char:EOLhyphen"/>dren, they make mention of a God, and of Angels, and of a heaven, and of a Divel, and of a Hell; but as for the true understanding of these spirituall things and places, they know certainly no more of them than Babes: And so much for all false Priests, Ministers, or Speakers in this world, who are Ministers of the Letter, and by the will of Man; but are not Ministers of the Spirit, by the will of God, and must all perish to eternity, that knowes or hearts of the truths of God declared by us, and yet wilfully disobey the com<g ref="char:EOLhyphen"/>mission of the Lord in us</p>
+            <p>Againe, the next thing we shall remonstrate unto you is this, that there was a necessity that God to vindicate his own glory, should give unto us, or some other men, a Commission to goe forth to the world, because within these twelve yeers there have been so many in this Land, that have come in their own names, calling themselves Christs, and Prophets, and Virgin Ma<g ref="char:EOLhyphen"/>ries, and such like; upon these severall sorts which arose to fulfill the Scrip<g ref="char:EOLhyphen"/>tures, we have pronounced the sentence of eternall death, for their robbing God of his glory, who will not give his glory to another, they assuming the titles of God to themselves, yet they lived like Divels as they are, in all car<g ref="char:EOLhyphen"/>nall and unnaturall lusts: Moreover, although lately there hath appeared so many spiritual counterfeits to fulfill the Scriptures, which say, <hi>you shall know them by their fruits:</hi> yet in generall the people are so blinde, because their owne deeds are evill, that they cannot discern the fruits of these wicked men whether they be good or evil: likewise there are but very few, in comparison of the multitude, that know whether there hath appeared any of these fig<g ref="char:EOLhyphen"/>trees whose fruits are leaves only; notwithstanding the lying Priests before their eyes attaine to great Estates through their skilfull merchandizing of the sacred Scriptures: but know this from the Lord, both Powers and People, for you shall know it either for your weale or woe, that God hath chosen us two only to be the spirituall Teachers of his everlasting Gospel, and hath given us power to worke all righteousnesse, and hath given us this great power to pronounce his sentence of eternall death upon all spirituall Coun<g ref="char:EOLhyphen"/>terfeits, and deceiving Scripture Merchants; and it is irrevokable, as sure as there is a God.</p>
+            <p>Againe, if men that counterfeit Commissions from Kings, or States, sel<g ref="char:EOLhyphen"/>dome finde mercy, what thinke you then will become of all those that coun<g ref="char:EOLhyphen"/>terfeit Commissions from the Lord of Heaven and Earth, and Creator of all powers? And so much for all Spiritual Counterfeits, and Scripture lamb-like
+<pb n="10" facs="tcp:205371:6"/>Wolves, that preach in their owne names, or by a commission from man, for want of a commission from the man Iesus the onely wise God and alone Everlasting Father.</p>
+            <p>Then after wee had made it appeare to many of the Ministers, that they have no commission from God to preach; and the sentence of death being denounced against them: for their despising to obey the message of the Lord, some of them sent their disciples unto us who being of their owne persecu<g ref="char:EOLhyphen"/>ting spirits they came under the sentence of death also: which occasioned the people to come unto us very much for the space of the three monthes fol<g ref="char:EOLhyphen"/>lowing, many blaspheming against the holy Spirit that sent us <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me under the same curse. Thus wee continued in obedience to our commission decla<g ref="char:EOLhyphen"/>ring the counsels of God unto men, untill about the twelfth of September 1653. at which time some of our persecutors which were under the sentence accompanied with the Marshals men with a warrant tooke us out of our house and brought us before Alderman <hi>Fouke</hi> then Lord Maior, who after he had examined us he despised the holy spirit and person of the Lord Iesus that sent us and so came under the sentence of death with our Iudas accusors for his cursed blasphemy against the Lord Iesus Christ, and his blessed spirit that sent us. And for his unjust committing us to the common Goale of Newgate to try us by the civill Law who did not nor cannot breake any ci<g ref="char:EOLhyphen"/>vill Law of the Common wealth of England. This is the first magistrate that brought himselfe to publicke shame besides an eternall curse which he shall not escape in the day of the Lords vengeance, for his persecuting of the Mes<g ref="char:EOLhyphen"/>sengers of the Lord Jesus, and for his medling with that which in the least belongs not to any civill Magistrate; for the duty of the Magistrate is to be skilfull in the civill Lawes of the Land, and if they finde any men to wrong one another in word or deed contrary to those Laws, then impartially ought they to execute Justice between man and man; but they have no Authority to judge us, that are Messengers and Prophets sent from God, who are kept by the Power of God, so innocent from the breach of any civill Lawes of men, that wee are made examples in the fulfilling of them to the whole world.</p>
+            <p>Moreover, we declare from the Lord, that no civill Magistrate ought to call any man to account for his faith concerning God, or the sacred Scrip<g ref="char:EOLhyphen"/>tures, because there is not a Magistrate in the world at this time, that doth clearly understand what the true God is, or the truth of holy writ: yet this Magistrate to fulfill that Prophesie in the 11. of the Revelation, concerning his making war with the Witnesses, must needs walke in his Brother <hi>Pilates</hi> steps, who condemn'd the Lord of all life, although his conscience made him say, that hee saw nothing in him worthy of death or blame: where<g ref="char:EOLhyphen"/>fore
+<pb n="11" facs="tcp:205371:6"/>as sure as <hi>Pilate</hi> must suffer the vengeance of eternall death, because hee preferred his honour among men of more value, then a good conscience to<g ref="char:EOLhyphen"/>wards God: so likewise this Magistrate Alderman <hi>Fouke,</hi> for his unjust committing of us to prison, who are the Lords Messengers, by his preroga<g ref="char:EOLhyphen"/>tive will, for his honours sake, although his conscience told him that wee had not broke any of the civill Laws of England: therefore the Lord by us his Messtengers hath set a mark of reprobation upon him, as the Lord marked his Father <hi>Kaine,</hi> which shall remaine with him to all eternity: And so much for that Reprobate Angel, Alderman <hi>Fonke,</hi> and our Antichristian Accusers.</p>
+            <p>The next thing we shall remonstrate unto you, is concerning one Alder<g ref="char:EOLhyphen"/>man <hi>Andrews,</hi> who in his Majoralty persecuted one Captaine <hi>Norwood</hi> for blasphemy, which no Magistrate ought to do as beforesaid; because the Lord Jesus from Heaven gave him no Commission to bee the judge of mens consciences on earth, concerning blasphemy against God and the sacred Scriptures; for you may know, that the civill Law instructs no man in the knowledge of a spirituall personall God, nor gives him understanding to interpret holy writ, that hee might know what is blasphemy against God: yet notwithstanding, this Alderman about the time of our unjust triall for our Faith, caused my two daughters (being but young) to come before him, and he put one of them to her oath, that she should confesse unto him what<g ref="char:EOLhyphen"/>ever he should ask of her: Ye powers of England, wee appeale unto you whether this Alderman acted by your Law, or by his owne will? likewise he caused my house to be searched at the same time for Bookes, into which he is not worthy to looke: wherefore for his blaspheamous speeches unto one Mr. <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ader</hi> a New-England Merchant, against the Holy Spirit that in<g ref="char:EOLhyphen"/>spired us to write those heav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly Bookes, for the consolation of the blessed, in obedience to our Commission that wee received by voice of words from Heaven, we pronounce him cursed and damned soule and body to all eter<g ref="char:EOLhyphen"/>nity: This will be that second Reprobate Angels portion in the day of the Lord Jesus, and the portion of all civill Magistrates that persecute men for their consciences, which have not broken their civill Lawes: O ye despisers of true Prophesie, and persecutors of innocent men, wonder and perish! for so did your forefathers to the holy Prophets and Apostles in their time: And so much for that persecutor, Alderman <hi>Andrews.</hi>
+            </p>
+            <p>The next thing we shall remonstrate unto your Honours, will bee the unjust practice of the Recorder <hi>Steele,</hi> and the London Jury at the Sessions time in the Old-Bayly, notwithstanding we gave them a cleare demonstra<g ref="char:EOLhyphen"/>tion from the Lord Jesus, before our Triall, that they have no Commission from Heaven to judge men, or try men for their faith concerning God and
+<pb n="12" facs="tcp:205371:7"/>the sacred Scriptures: but as aforesaid, they ought to be wise, and learned in the civill Lawes of the Common wealth of England, and to execute e<g ref="char:EOLhyphen"/>quall justice unto all men; and in so doing they may enjoy the righteousness of the Law and live in peace all their dayes: Is it not a strange thing that most Magistrates cannot be contented with their earthly Authority and ho<g ref="char:EOLhyphen"/>nour they are invested withall; but without a Commission from God pre<g ref="char:EOLhyphen"/>sumptuously they will sit upon his Throne and rob him of his glory, by ta<g ref="char:EOLhyphen"/>king upon them to judge the Prophets of the Lord, and they will be the Judges of blasphemy against God, and yet they know not what the true God is, or whether there is any God at all, but perishing nature onely? and they will be the Judges of the minde of God in the sacred Scriptures, and yet they know not whether those spirituall Test<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments are the wisedome of the immortall God, or the wisedome of mortall men, which if they had faith to believe that holy writ to bee the wisedome of Jesus Christ, then would they yield obedience to his blessed spirit, which teacheth men to suffer persecution for the name of Christ, but not to persecute any man for his faith, but to shew mercy to their greatest enemies, but quite contrary to the everlasting Gospel of following peace with all men, and holinesse, with<g ref="char:EOLhyphen"/>out which no man shall see the Lord to his comfort: The Recorder and the Jury did pronounce us to be blasphemers, for our declaring the Man Iesus that died at <hi>Jernsalem,</hi> and arose from death to life by his own power, to be the only God and everlasting Father: for this glorious truths sake, which they call blasphemy, they have commited us to Old-Bridewell, there to remaine sixe months without Baile or maine-prize: O yee Parliament and Powers of England! if there bee a man amongst you that hath any light of the spirit of Iesus Christ within you, you must needs acknowledge this sen<g ref="char:EOLhyphen"/>tence against us to be contrary to all your civil Lawes, and all your ingage<g ref="char:EOLhyphen"/>ments you were pleased to make with your Brethren the free-born people of England, and contrary to all equity and conscience in those men that have any true hope of salvation at the appearing of Iesus Christ, who will suddenly come in flaming fire, with his ten thousands of Saints to recom<g ref="char:EOLhyphen"/>pence vengeance upon the soules and bodies of all persecutors of conscience, both great and small, and upon all men that know not God, nor obey the Gospel of Iesus Christ; wherefore because the Recorder of <hi>London</hi> and the Iury beforesaid did rob Iesus Christ of his glory, and like Divels as they are, did condemn the Lord of life that sent us, by blaspheming against his holy Spirit, in obedience to the Commission we have received from the glorious mouth of the everliving God, from the presence of the Lord Iesus Christ, Elect men and Angels, wee pronounce the Recorder and the Iury cursed and damned soules and bodies to all eternity: and so much for our unjust Triall,
+<pb n="13" facs="tcp:205371:7"/>and the just sentence of Iesus Christ upon the third Reprobate Angel and his Brethren, those inferiour dark Angels who esteemed more of the honour of a man appoynted to perish, than the glory of God and their owne eternall salvation,</p>
+            <p>Thus according to truth, we have given your honours a briefe description of the Commission of the true God cōmitted to our charge, with a Remon<g ref="char:EOLhyphen"/>strance of those spirituall transactions we have been carried through by the power of our God, having often been in danger of our lives, by unreason<g ref="char:EOLhyphen"/>able men, for his Name sake, because they could not beare this sharp Com<g ref="char:EOLhyphen"/>mission which the Lord put upon us the third, fourth, and fifth dayes of Fe<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uary, 1651.</p>
+            <p>And now in the last place, in the Name and power of our Lord Iesu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christ that sent us, we shall write a few lines unto all your Honours serious considerations by way of Recitall of your ingaging your lives, and liberties, and honours, and all that is dear unto you, unto your Brethren the free born people of England, that they should not onely injoy their civill liberties, but the Libertie of their Consciences also towards God, which is of more value then this whole world: upon this account your Brethren did not on<g ref="char:EOLhyphen"/>ly write ingagements with you, but they did freely venter their lives and all that was deare unto them against the common Enemy, for the preserva<g ref="char:EOLhyphen"/>tion of your persons and posterities, they not doubting in the least of your faithfulnesse towards them, that were so faithfull towards you concerning their liberties, but especially the liberty of their consciences, which belongs not to man to judge, but to God only that knows the heart<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you know that the Scripture saith, that Iesus Christ is the only Iudge both of quick and dead: Therefore we hope you will alow him also to be the alone Iudge of all mens faith concerning God and the sacred Scriptures: which if you grant him this his royall p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erogative, then you will come to understand that that Ma<g ref="char:EOLhyphen"/>gistrate that takes upon him to sentence men for their faith concerning God and the sacred Scriptures, he asurp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Gods Throne, and robs him of his glory, and so brings upon himselfe an eternall curse.</p>
+            <p>Againe, wee declare from the Holy Spirit that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that if you per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orme your Covenant to your B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ethren concerning their consciences towards God and the holy Scriptures, then you shall tread all the common <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>emies <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f this Nation under your feet both by Sea and Land for ever: let all the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se-men in the Nation gainsay what we have written, you shall find them <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Liars, if you make triall of this Counsell of the Lords, sent unto you by <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is last Messengers; for you know that it was the Ecclesiast<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll Tyran<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Bishops Courtsover mens consciences, which was the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ef thing <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rovoked the religious, consciencious men more faithfully then others,
+<pb n="14" facs="tcp:205371:8"/>couragiously to fight your hottest battels, for the liberty of their consciences, many hundreds of them being slaine upon this account, leaving their Wives and Children in a mourning condition behinde them: Also you know that the Synod sate about foure years in an Ecclesiasticall manner to prove them<g ref="char:EOLhyphen"/>selves <hi>Jure Divino:</hi> but in the end they were all found to be but <hi>Jure Hu<g ref="char:EOLhyphen"/>mano:</hi> that is, they were manifested not to be the Ministers of God, but ordained of men only: Thus this Synod of yong Bishops striving to sit in the old Bishops tyrannicall Chaire, being discovered, they were soon dissol<g ref="char:EOLhyphen"/>ved.</p>
+            <p>Wherefore O ye powers of England, seeing you, and the people for li<g ref="char:EOLhyphen"/>berty of conscience, did joyne together as one man, and have conquered all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cclesiasticall Tyrants and Monsters of men, we beseech you let your Bre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hren the free-born people enjoy the liberty of their conscience which they have bought at so deare a rate, and suffer not this Ecclesiasticall Tyranny to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eigne in the civill Magistrate, which you have fought against in those that were established from the Kings power in their Ecclesiasticall Tyranny by a Law, which if you do establish againe by a Law, you can never sit upon the Throne in safety, nor enjoy the peace of your consciences, which is of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore valu then this whole World; for we that are the Lords Messengers, what ever we suffer, wee must tell you (what ever cursed men tell you to the contrary) that persecution of conscience is the great sin of Rebellion a<g ref="char:EOLhyphen"/>gainst God, which is as the sinne of Witchraft: wherefore that Magistrate which persecutes men for their faith concerning God and the Scriptures, commits that unpardonable sin against the Holy Spirit, which can never bee repented of, and so consequently must perish eternally, as sure as God is God: Therefore O ye Powers of England! be wise and learned, and quit your s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lvs like wise Councellors, by delivering your selves from that spiritu<g ref="char:EOLhyphen"/>all Babylonish yoak of persecuting men for their faith, and hearken no more to the cunning <hi>Achitophels,</hi> and lying Trenchar-Chaplaines of this perish<g ref="char:EOLhyphen"/>ing world; but hearken to the voice of Jesus Christ within you, who is the onely true God, and alone Minister and Councellor by his holy Spirit of all men appointed to Salvation; then may you clearly distinguish between the things that are <hi>Casars</hi> and the things that are Gods.</p>
+            <p>Thus we being confident, that if the Lord Jesus that sent us have deligh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in any of your persons, then after the perusall hereof you will never enj<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e peace more, untill you have set at liberty all the prisoners in y<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dominions, that suffer purely for their conscience towards God, they <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being guilty of the brea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of the civill Lawes of the Parliament and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mon-w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th of England, and in so doing, your Honours Names th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> made the inst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ument thereof, shall refresh or heale the wounds of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the
+<pb n="15" facs="tcp:205371:8"/>chosen of God living in your territories, like unto the Balm of <hi>Gilead,</hi> and you shall be renowned unto the ends of the Earth, above all the Princes in the world: But on the contrary, if you are all left to the hardnesse of your owne hearts, as King <hi>Pharoah</hi> was, to joyne with the persecutors of the little ones of Iesus Christ beforesaid, <hi>it had been better for you that you had never been born, or that a milstone were hanged about your necks, and that you were all cast into the midst of the sea:</hi> These words of Truth were spoken by him that cannot lie, who hath sent us that are his last M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssengers to give you notice whilst you have time, of his sudden appearing to judge both quick and dead: so desiring our God, if it bee his good pleasure, to make your spirits obedient unto this spirituall Message of his, we remaine,</p>
+            <closer>
+               <signed>Your Honours to command, in all Righteousnesse, till death.</signed>
+            </closer>
+            <postscript>
+               <p>John Reeve <hi>and</hi> Lodowick Muggleton, <hi>in opposition of all gain<g ref="char:EOLhyphen"/>sayers in the World, are made able, from the Spirit of Jesus Christ that sent us clearly by the sacred Scriptures to remonstrate and prove, that the Man Jesus now glorified, was, and is the onely God and Father from eternity to eternity, and that he is the alone Creator of all things, or formes that are made in both worlds, and this Jesus our blessed Lord and Saviour hath sent us, for this very end and purpose, to pronounce all those that receive this divine Truth, the blessed of the Lord to eternity, and all those that despise this saving Truth, to declare them from the Lord cursed to eternity.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
